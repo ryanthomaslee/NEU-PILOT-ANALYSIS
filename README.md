@@ -24,8 +24,9 @@ The analysis focuses on extracting actionable insights regarding how distinct bu
 ## Burnout Domain Mean Score Shifts
 
 <p align="center">
-  <img width="1200" alt="Burnout Domain Mean Score Analysis" src="PASTE_DOMAIN_GRAPH_URL_HERE" />
-</p>
+<img width="987" height="745" alt="Screenshot 2026-05-14 at 10 12 12" src="https://github.com/user-attachments/assets/c44b910c-14fc-47e6-9101-b7c56fd8fac4" />
+
+
 
 Aggregate domain-level changes comparing Day 0 and Day 14 burnout assessment scores across the Emotional, Motivational, Relational, and Cognitive domains.
 
@@ -34,8 +35,8 @@ Aggregate domain-level changes comparing Day 0 and Day 14 burnout assessment sco
 ## Individual TBP Score Changes
 
 <p align="center">
-  <img width="1200" alt="TBP Total Score Change Analysis" src="PASTE_TBP_GRAPH_URL_HERE" />
-</p>
+<img width="990" height="738" alt="Screenshot 2026-05-14 at 10 12 37" src="https://github.com/user-attachments/assets/8c023b37-48b7-45bc-8c2f-0451cdbaad0e" />
+
 
 Participant-level burnout trajectory analysis visualising individual total burnout profile (TBP) score deltas across the intervention period.
 
